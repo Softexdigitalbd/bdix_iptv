@@ -4,13 +4,13 @@ http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
 #EXTINF:30,STAR JALSHA
 http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
 #EXTINF:0,Star Jalsha
-http://87.255.35.150:18237/index.ts
+http://ctv.sungohd.com:18237/index.ts
 #EXTINF:0,ZEE BANGLA
 http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
 #EXTINF:0,Zee Bangla
-http://87.255.35.150:18238/index.ts
+http://ctv.sungohd.com:18238/index.ts
 #EXTINF:0,Colors Bangla
-http://87.255.35.150:18236/index.ts
+http://ctv.sungohd.com:18236/index.ts
 #EXTINF:0,JALSHA MOVIES
 http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8
 #EXTINF:0,ZEE BANGLA CINEMA
@@ -38,37 +38,37 @@ http://172.16.29.2:8090/hls/ColorsHD.m3u8
 #EXTINF:30,STAR PLUS
 http://172.16.29.2:8090/hls/StarPlusHD.m3u8
 #EXTINF:0,STAR PLUS HD
-http://87.255.35.150:18880/index.ts
+http://ctv.sungohd.com:18880/index.ts
 #EXTINF:0,ZEE TV HD
-http://87.255.35.150:18849/index.ts
+http://ctv.sungohd.com:18849/index.ts
 #EXTINF:0,STAR PLUS HD
-http://87.255.35.150:18850/index.ts
+http://ctv.sungohd.com:18850/index.ts
 #EXTINF:0,ZEE TV HD
-http://87.255.35.150:18951/index.ts
+http://ctv.sungohd.com:18951/index.ts
 #EXTINF:0,& TV HD
-http://87.255.35.150:18221/index.ts
+http://ctv.sungohd.com:18221/index.ts
 #EXTINF:0,& TV HD
-http://87.255.35.150:18843/index.ts
+http://ctv.sungohd.com:18843/index.ts
 #EXTINF:0,COLORS
-http://87.255.35.150:18803/index.ts
+http://ctv.sungohd.com:18803/index.ts
 #EXTINF:0,SONY TV HD
-http://87.255.35.150:18546/index.ts
+http://ctv.sungohd.com:18546/index.ts
 #EXTINF:0,SONY HD
-http://87.255.35.150:18809/index.ts
+http://ctv.sungohd.com:18809/index.ts
 #EXTINF:0,STAR BHARAT
-http://87.255.35.150:18853/index.ts
+http://ctv.sungohd.com:18853/index.ts
 #EXTINF:0,STAR BHARAT HD
-http://87.255.35.150:18555/index.ts
+http://ctv.sungohd.com:18555/index.ts
 #EXTINF:0,SONY SAB HD
-http://87.255.35.150:18810/index.ts
+http://ctv.sungohd.com:18810/index.ts
 #EXTINF:0,COLORS HINDI
-http://87.255.35.150:18886/index.ts
+http://ctv.sungohd.com:18886/index.ts
 #EXTINF:0,SONY PAL
-http://87.255.35.150:18887/index.ts
+http://ctv.sungohd.com:18887/index.ts
 #EXTINF:0,STAR BHARAT
-http://87.255.35.150:18457/index.ts
+http://ctv.sungohd.com:18457/index.ts
 #EXTINF:0,SONY SAB
-http://87.255.35.150:18557/index.ts
+http://ctv.sungohd.com:18557/index.ts
 #EXTINF:0,ZEE CINEMA
 http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
 #EXTINF:0,STAR GOLD
@@ -76,65 +76,65 @@ http://172.16.29.2:8090/hls/StarGoldHD.m3u8
 #EXTINF:0,SONY MAX
 http://172.16.29.2:8090/hls/sonymaxhd.m3u8
 #EXTINF:0,SONY MAX HD
-http://87.255.35.150:18465/index.ts
+http://ctv.sungohd.com:18465/index.ts
 #EXTINF:0,SONY MAX HD
-http://87.255.35.150:18851/index.ts
+http://ctv.sungohd.com:18851/index.ts
 #EXTINF:0,SONY MAX 2
-http://87.255.35.150:18841/index.ts
+http://ctv.sungohd.com:18841/index.ts
 #EXTINF:0,ZEE CINEMA HD
-http://87.255.35.150:18483/index.ts
+http://ctv.sungohd.com:18483/index.ts
 #EXTINF:0,ZEE CINEMA HD
-http://87.255.35.150:18808/index.ts
+http://ctv.sungohd.com:18808/index.ts
 #EXTINF:0,& PICTURES
-http://87.255.35.150:18510/index.ts
+http://ctv.sungohd.com:18510/index.ts
 #EXTINF:0,& PICTURES
-http://87.255.35.150:18412/index.ts
+http://ctv.sungohd.com:18412/index.ts
 #EXTINF:0,STAR GOLD HD
-http://87.255.35.150:18859/index.ts
+http://ctv.sungohd.com:18859/index.ts
 #EXTINF:0,STAR GOLD HD
-http://87.255.35.150:18411/index.ts
+http://ctv.sungohd.com:18411/index.ts
 #EXTINF:0,STAR GOLD 2
-http://87.255.35.150:18807/index.ts
+http://ctv.sungohd.com:18807/index.ts
 #EXTINF:0,ZEE BOLLYWOOD
-http://87.255.35.150:18861/index.ts
+http://ctv.sungohd.com:18861/index.ts
 #EXTINF:0,Colors Cineplex
-http://87.255.35.150:18296/index.ts
+http://ctv.sungohd.com:18296/index.ts
 #EXTINF:30,COLORS CINEPLEX
 http://172.16.29.2:8090/hls/ColorsCineplexHD.m3u8
 #EXTINF:0,ZEE ACTION
-http://87.255.35.150:18507/index.ts
+http://ctv.sungohd.com:18507/index.ts
 #EXTINF:30,STAR MOVIES
 http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
 #EXTINF:0,STAR MOVIES HD
-http://87.255.35.150:18301/index.ts
+http://ctv.sungohd.com:18301/index.ts
 #EXTINF:0,Star Movies
-http://87.255.35.150:18211/index.ts
+http://ctv.sungohd.com:18211/index.ts
 #EXTINF:0,MOVIES NOW
-http://87.255.35.150:18935/index.ts
+http://ctv.sungohd.com:18935/index.ts
 #EXTINF:0,SONY PIX HD
-http://87.255.35.150:18548/index.ts
+http://ctv.sungohd.com:18548/index.ts
 #EXTINF:0,SONY PIX
-http://87.255.35.150:18495/index.ts
+http://ctv.sungohd.com:18495/index.ts
 #EXTINF:0,& PRIVE HD
-http://87.255.35.150:18494/index.ts
+http://ctv.sungohd.com:18494/index.ts
 #EXTINF:0,ZEE CAFE
-http://87.255.35.150:18547/index.ts
+http://ctv.sungohd.com:18547/index.ts
 #EXTINF:30,DISCOVERY KIDS
 http://172.16.29.2:8090/hls/DiscoveryKids.m3u8
 #EXTINF:30,CARTOON NETWORK
 http://172.16.29.2:8090/hls/CartoonNetworkHD.m3u8
 #EXTINF:0,POGO
-http://87.255.35.150:18862/index.ts
+http://ctv.sungohd.com:18862/index.ts
 #EXTINF:0,Nick
-http://87.255.35.150:18249/index.ts
+http://ctv.sungohd.com:18249/index.ts
 #EXTINF:0,Disney Jr.
-http://87.255.35.150:18251/index.ts
+http://ctv.sungohd.com:18251/index.ts
 #EXTINF:0,Nick Jr.
-http://87.255.35.150:18252/index.ts
+http://ctv.sungohd.com:18252/index.ts
 #EXTINF:0,Sony YAY
-http://87.255.35.150:18285/index.ts
+http://ctv.sungohd.com:18285/index.ts
 #EXTINF:0,DK
-http://87.255.35.150:18902/index.ts
+http://ctv.sungohd.com:18902/index.ts
 #EXTINF:0,NAT GEO WILD
 http://172.16.29.2:8090/hls/NatGeoWild.m3u8
 #EXTINF:0,DISCOVERY
@@ -142,13 +142,13 @@ http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
 #EXTINF:0,ANIMAL PLANET
 http://172.16.29.2:8090/hls/AnimalPlanetHD.m3u8
 #EXTINF:0,Discovery
-http://87.255.35.150:18220/index.ts
+http://ctv.sungohd.com:18220/index.ts
 #EXTINF:0,BBC NEWS
-http://87.255.35.150:18216/index.ts
+http://ctv.sungohd.com:18216/index.ts
 #EXTINF:0,COLORS INFINITY
-http://87.255.35.150:18838/index.ts
+http://ctv.sungohd.com:18838/index.ts
 #EXTINF:0,ANIMAL PLANET HD
-http://87.255.35.150:18423/index.ts
+http://ctv.sungohd.com:18423/index.ts
 #EXTINF:30,T SPORTS
 http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:30,A SPORTS
@@ -160,65 +160,65 @@ http://172.16.29.2:8090/hls/willowcrickethd.m3u8
 #EXTINF:0,STAR SPORTS 1
 http://172.16.29.2:8090/hls/StarSports1HD.m3u8
 #EXTINF:0,STAR SPORTS 1 HD
-http://87.255.35.150:18863/index.ts
+http://ctv.sungohd.com:18863/index.ts
 #EXTINF:0,STAR SPORTS 1 HD
-http://87.255.35.150:18891/index.ts
+http://ctv.sungohd.com:18891/index.ts
 #EXTINF:0,STAR SPORTS 1 HINDI
-http://87.255.35.150:18923/index.ts
+http://ctv.sungohd.com:18923/index.ts
 #EXTINF:0,STAR SPORTS 1 HINDI
-http://87.255.35.150:18302/index.ts
+http://ctv.sungohd.com:18302/index.ts
 #EXTINF:30,STAR SPORTS 
 http://172.16.29.2:8090/hls/StarSportsHindi2HD.m3u8
 #EXTINF:0,STAR SPORTS 2
-http://87.255.35.150:18828/index.ts
+http://ctv.sungohd.com:18828/index.ts
 #EXTINF:0,STAR SPORTS 2
 http://172.16.29.2:8090/hls/StarSports2HD.m3u8
 #EXTINF:0,STAR SPORTS 2 HINDI
-http://87.255.35.150:18882/index.ts
+http://ctv.sungohd.com:18882/index.ts
 #EXTINF:0,STAR SPORTS 3
-http://87.255.35.150:18804/index.ts
+http://ctv.sungohd.com:18804/index.ts
 #EXTINF:0,SONY TEN 1
 http://172.16.29.2:8090/hls/SonyTen1hd.m3u8
 #EXTINF:0,SONY SPORTS 1 HD
-http://87.255.35.150:18926/index.ts
+http://ctv.sungohd.com:18926/index.ts
 #EXTINF:0,SONY SPOTRS 1 HD
-http://87.255.35.150:18544/index.ts
+http://ctv.sungohd.com:18544/index.ts
 #EXTINF:0,SONY TEN 2
 http://172.16.29.2:8090/hls/SonyTen2hd.m3u8
 #EXTINF:0,SONY SPORTS 2 HD
-http://87.255.35.150:18927/index.ts
+http://ctv.sungohd.com:18927/index.ts
 #EXTINF:0,SONY SPORTS 2 HD
-http://87.255.35.150:18928/index.ts
+http://ctv.sungohd.com:18928/index.ts
 #EXTINF:0,SONY TEN 3
 http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
 #EXTINF:0,SONY SPORTS 3 HD
-http://87.255.35.150:18848/index.ts
+http://ctv.sungohd.com:18848/index.ts
 #EXTINF:0,SONY SPORTS 3
-http://87.255.35.150:18818/index.ts
+http://ctv.sungohd.com:18818/index.ts
 #EXTINF:0,SONY SPORTS 4
-http://87.255.35.150:18879/index.ts
+http://ctv.sungohd.com:18879/index.ts
 #EXTINF:0,SONY TEN 5
 http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
 #EXTINF:30,STAR SPORTS SELECT
 http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
 #EXTINF:0,STAR SPORTS SELECT 2 HD
-http://87.255.35.150:18952/index.ts
+http://ctv.sungohd.com:18952/index.ts
 #EXTINF:0,STAR SPORTS SELECT 2
 http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
 #EXTINF:0,ANMOL TV
-http://87.255.35.150:18467/index.ts
+http://ctv.sungohd.com:18467/index.ts
 #EXTINF:0,HUNGAMA
-http://87.255.35.150:18811/index.ts
+http://ctv.sungohd.com:18811/index.ts
 #EXTINF:0,ZOOM
-http://87.255.35.150:18842/index.ts
+http://ctv.sungohd.com:18842/index.ts
 #EXTINF:0,9XM
-http://87.255.35.150:18885/index.ts
+http://ctv.sungohd.com:18885/index.ts
 #EXTINF:0,Tashan
-http://87.255.35.150:18227/index.ts
+http://ctv.sungohd.com:18227/index.ts
 #EXTINF:0,PTC Chakde
-http://87.255.35.150:18228/index.ts
+http://ctv.sungohd.com:18228/index.ts
 #EXTINF:0,MTV 
-http://87.255.35.150:18901/index.ts
+http://ctv.sungohd.com:18901/index.ts
 #EXTINF:0,SPORTS LIVE
 http://172.16.29.2:8090/hls/sportsliveevents.m3u8
 #EXTINF:36,XTREAM SPORTS
